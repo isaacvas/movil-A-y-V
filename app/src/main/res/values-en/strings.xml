@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Calculo de areas y volumenes</string>
+    <string name="app_name">Calculation of areas and volumes</string>
+    <string name="areas">Areas</string>
+    <string name="cilindro">cylinder</string>
+    <string name="circulo">Circle</string>
+    <string name="cuadrado">Square</string>
+    <string name="cono">Cone</string>
+    <string name="cubo">Cube</string>
+    <string name="esfera">sphere</string>
+    <string name="operaciones_realizadas">Operations carried out</string>
+    <string name="rectangulo">Rectangle</string>
+    <string name="triangulo">Triangle</string>
+    <string name="volumenes">Volumes</string>
+    <string name="resultado">result</string>
+    <string name="area">Area</string>
 </resources>

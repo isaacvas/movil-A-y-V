@@ -22,11 +22,26 @@
     <string name="cilindro">Cilindro</string>
     <string name="cono">Cono</string>
     <string name="cubo">Cubo</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="v_lado">valor del lado</string>
     <array name="volumen">
         <item>@string/esfera</item>
         <item>@string/cilindro</item>
         <item>@string/cono</item>
         <item>@string/cubo</item>
     </array>
+    <string name="area_del_cuadrado">Area del cuadrado</string>
+    <string name="msn_resultado">Resultado</string>
+    <string name="area">Area</string>
+    <string name="msn_error">por favor llene el campo</string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="area_del_triangulo">Area del triangulo</string>
+    <string name="area_del_rectangulo">Area del rectangulo</string>
+    <string name="valor_del_radio">Valor del radio</string>
+    <string name="area_del_radio">Area del radio</string>
+    <string name="radio">Radio</string>
+
 
 </resources>

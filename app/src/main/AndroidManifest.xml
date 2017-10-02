@@ -17,7 +17,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".Area" />
-        <activity android:name=".Volumen"></activity>
+        <activity android:name=".Volumen" />
+        <activity android:name=".Cuadrado" />
+        <activity android:name=".Triangulo" />
+        <activity android:name=".Rectangulo" />
+        <activity android:name=".Circulo"></activity>
     </application>
 
 </manifest>
