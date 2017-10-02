@@ -27,7 +27,7 @@ public class Rectangulo extends AppCompatActivity {
             al = Double.parseDouble(altura.getText().toString());
             resultado = (ba * al);
 
-            Operacion o = new Operacion(String.valueOf(R.string.area_del_rectangulo), R.string.base + ": " + ba +"\n" +R.string.altura + ": " + al, resultado);
+            Operacion o = new Operacion(resources.getString(R.string.area_del_rectangulo), resources.getString(R.string.base) + ": " + ba +"\n" +resources.getString(R.string.altura) + ": " + al, resultado);
             o.guardar();
             Toast.makeText(this, resources.getString(R.string.msn_resultado) + "\n" + resources.getString(R.string.area) + " " + resultado, Toast.LENGTH_SHORT).show();
             limpiarCampo();

@@ -8,8 +8,9 @@ import java.util.ArrayList;
 
 public class Datos {
     private static ArrayList<Operacion> operciones = new ArrayList<>();
-     public static void guardar (Operacion o){operciones .add(o);}
-    public static ArrayList<Operacion> obtener(){
+     public static void guardar (Operacion o){
+         operciones .add(o);}
+    public static ArrayList<Operacion> getArray(){
         return operciones;
     }
 }

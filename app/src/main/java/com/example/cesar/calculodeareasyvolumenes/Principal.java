@@ -37,6 +37,10 @@ public class Principal extends AppCompatActivity {
                         in = new Intent(Principal.this,Volumen.class);
                         startActivity(in);
                         break;
+                    case 2:
+                        in = new Intent(Principal.this,OpRealizadas.class);
+                        startActivity(in);
+                        break;
 
                 }
             }

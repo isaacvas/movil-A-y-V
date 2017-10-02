@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Calculation of areas and volumes</string>
+    <string name="app_name">Calculo de areas y volumenes</string>
     <string name="areas">Areas</string>
     <string name="cilindro">cylinder</string>
     <string name="circulo">Circle</string>
@@ -14,4 +14,26 @@
     <string name="volumenes">Volumes</string>
     <string name="resultado">result</string>
     <string name="area">Area</string>
+    <string name="area_del_cuadrado">Square area</string>
+    <string name="area_del_radio">" Circle Area "</string>
+    <string name="area_del_rectangulo">Rentengle area</string>
+    <string name="area_del_triangulo">Triangle area</string>
+    <string name="arista">value of the edge</string>
+    <string name="base">Base</string>
+    <string name="borrar">Delete</string>
+    <string name="calcular">calculate</string>
+    <string name="datos">Data</string>
+    <string name="msn_resultado">result</string>
+    <string name="no">No.</string>
+    <string name="operacion">Operation</string>
+    <string name="radio">Radius</string>
+    <string name="altura">" height"</string>
+    <string name="v_cono">cone volume</string>
+    <string name="v_cubo">cube volume</string>
+    <string name="v_lado">value on the side</string>
+    <string name="volumen_del_cilindro">cylinder volume</string>
+    <string name="volumen">volume</string>
+    <string name="volumen_de_la_esfera">sphere volume</string>
+    <string name="valor_del_radio">radius value</string>
+    <string name="msn_error">please fill the field</string>
 </resources>
